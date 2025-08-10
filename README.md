@@ -40,7 +40,7 @@ The dataset contains shipment details with the following columns:
 - `arpu_output.png`: Sample output for Average Revenue Per User.(Screenshot of Average Revenue Per User query result)
 - `subquery_example_output.png`: Sample output for subquery example. (Screenshot of subquery example result)
 - `null_handling_output.png`: Sample output for handling NULL values.(Screenshot of NULL handling query result)
-- above all data in zip file only output is separate.
+- above all data in zip file only output od excel file is separate.
 - i also shared excel file of output.
 
 
