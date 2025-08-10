@@ -36,10 +36,12 @@ The dataset contains shipment details with the following columns:
 ## Files in this Repository
 - `task4_shipping_ecommerce.sql`: Contains all SQL queries for the task.
 - `shipping_ecommerce.csv`: Dataset used for analysis.
-- `where_vs_having_output.png`: Sample output for WHERE vs HAVING.
-- `arpu_output.png`: Sample output for Average Revenue Per User.
-- `subquery_example_output.png`: Sample output for subquery example.
-- `null_handling_output.png`: Sample output for handling NULL values.
+- `where_vs_having_output.png`: Sample output for WHERE vs HAVING.(Screenshot of WHERE vs HAVING query result)
+- `arpu_output.png`: Sample output for Average Revenue Per User.(Screenshot of Average Revenue Per User query result)
+- `subquery_example_output.png`: Sample output for subquery example. (Screenshot of subquery example result)
+- `null_handling_output.png`: Sample output for handling NULL values.(Screenshot of NULL handling query result)
+- i also shared excel file of output.
+
 
 ## How to Run
 1. Create a database in MySQL/PostgreSQL/SQLite.
